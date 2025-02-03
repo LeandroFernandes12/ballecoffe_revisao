@@ -165,7 +165,7 @@ main{
 .info{
     max-width: 1120px;/* Define a largura máxima do elemento como 1120 pixels */
     height: 60vh;/* Define a altura do elemento como 60% da altura da janela de visualização 
-    (viewport height*/
+    (viewport height*/  
     display: flex;/* Define o elemento como um container flexível */
     flex-direction: row;/* Estabelece a direção dos elementosfilhos para uma disposição em linha */
     justify-content: space-between;/* Distribui os elementos filhos unifoermemente ao longo do eixo principal, com espaçamento entre eles */
